@@ -1,0 +1,7 @@
+/node_modules
+.env
+/src/config/
+/public
+*.lock
+package-lock.json  
+ecosystem.config.js 
